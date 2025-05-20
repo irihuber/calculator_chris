@@ -1,0 +1,1 @@
+print("Hello Wold! This is a test script.")
